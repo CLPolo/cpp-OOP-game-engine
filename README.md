@@ -8,13 +8,8 @@ This project was built in collaboration with [FaiazBN](https://github.com/FaiazB
 
 ```
 .
-├── assets
-├── engine
-│   ├── components
-│   ├── core
-│   ├── managers
-│   └── systems
-└── src
+├── bolo
+└── engine
 ```
  - Engine, naturally, contains all of the engine functionality/implementation
  - bolo contains a simple copy of the Apple ][ game, BOLO, built with the engine API
